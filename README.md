@@ -20,7 +20,8 @@ Hi 😄! My name is Jana, and I am currently working as an R Shiny developer on 
 - **Community Contribution**: I aim to contribute to open-source projects and collaborate with other developers to create impactful solutions.
 
 ## Get in Touch
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-spinner-37ba971a3/).
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-spinner-37ba971a3/)
+
 Feel free to reach out to me via Linkedin! I am always open to connecting with fellow developers and professionals in the field.
 
 Thank you for visiting my GitHub profile!
